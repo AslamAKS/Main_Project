@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889519240410",
+    "project_id": "clouds-ed599",
+    "storage_bucket": "clouds-ed599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889519240410:android:e2e4f08054054acf1fe1e3",
+        "android_client_info": {
+          "package_name": "com.example.clouds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889519240410-gn91jv1m5i0mlalojsmtbanegj8cgqct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clouds",
+            "certificate_hash": "0f2c3382097e49905e3298bd400af171171043f4"
+          }
+        },
+        {
+          "client_id": "889519240410-a33kovmtdntv56jsk5nbisiooevkuecq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcwd1p2QOQHwuTpeevUfdOVJ6yDuT4nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889519240410-a33kovmtdntv56jsk5nbisiooevkuecq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
